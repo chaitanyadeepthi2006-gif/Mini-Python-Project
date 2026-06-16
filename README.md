@@ -23,3 +23,7 @@ A console-based quiz application developed using Python.
 
 ## Technologies Used
 - Python
+
+## Output
+![Quiz Output](Output1.png)
+![Quiz Output](output2.png)
