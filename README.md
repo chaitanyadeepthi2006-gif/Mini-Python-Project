@@ -1,2 +1,13 @@
-# Mini-Python-Project
-The Quiz Application is a Python-based program that allows users to answer multiple-choice questions and receive a score based on their correct answers. It helps learners practice Python concepts while creating an interactive educational application.
+# Python Quiz Application
+
+A console-based quiz application developed using Python.
+
+## Features
+- Multiple Choice Questions
+- Score Calculation
+- Percentage Calculation
+- Pass/Fail Result
+- Object-Oriented Programming
+
+## Technologies Used
+- Python
