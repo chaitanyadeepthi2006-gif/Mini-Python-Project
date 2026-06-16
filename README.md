@@ -25,7 +25,6 @@ A console-based quiz application developed using Python.
 - Python
 
 ## Output
-![Quiz Output](<img width="416" height="618" alt="0utput1" src="https://github.com/user-attachments/assets/71fda9ce-a3a3-4aee-ad44-db54ac90134b" />
-)
-![Quiz Output](<img width="429" height="196" alt="output2" src="https://github.com/user-attachments/assets/8b31267f-e529-4045-a17c-37a2bd650657" />
-)
+<img width="416" height="618" alt="0utput1" src="https://github.com/user-attachments/assets/71fda9ce-a3a3-4aee-ad44-db54ac90134b" />
+<img width="429" height="196" alt="output2" src="https://github.com/user-attachments/assets/8b31267f-e529-4045-a17c-37a2bd650657" />
+
